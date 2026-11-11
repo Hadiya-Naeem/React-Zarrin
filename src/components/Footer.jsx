@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="">
 
       <div className="d-flex flex-column justify-content-center align-items-center gap-3">
-        <img src="./public/Logo.png" alt="" />
+        <img src="/Logo.png" alt="" />
         <div className="anchor d-flex gap-5">
             <a href="">Home</a>
             <a href="">Blog</a>

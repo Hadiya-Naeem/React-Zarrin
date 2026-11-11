@@ -8,7 +8,7 @@ const Header = () => {
     <>
 <nav className="navbar bg-1 fg-2">
   <div className="container-fluid">
-    <a className="navbar-brand mt-2" ><img src="./public/Logo.png" alt="" /></a>
+    <a className="navbar-brand mt-2" ><img src="/Logo.png" alt="" /></a>
     <form className="d-flex gap-4" role="search">
       <a href="" className='textColor mt-2'>Blog</a>
       <a href="" className='textColor mt-2'>About</a>

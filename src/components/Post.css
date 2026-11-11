@@ -1,0 +1,19 @@
+.heroBtn{
+    outline: none !important;
+    border: none !important;
+    padding: 10px 20px ;
+     background-color: white !important;
+    color: black !important;
+    border-radius: 2px;
+}
+.herobg{
+    background-color: #7C4EE4;
+   
+}
+.heading{
+    font-size: 60px;
+}
+.content img {
+    width: 100%;
+    height: auto;
+}

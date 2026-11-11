@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.textColor {
+    color: #333333 !important;
+    text-decoration: none;
+}
+.headerBtn{
+     outline: none !important;
+    border: none !important;
+    padding: 10px 20px;
+    background-color: #7C4EE4 !important;
+    color: white !important;
+    border-radius: 2px;
+}

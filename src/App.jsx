@@ -1,8 +1,9 @@
 import React from 'react'
 import Header from './components/Header'
 import Hero from './components/Hero'
-import Post from './components/post'
+
 import Footer from './components/Footer'
+import Post from './components/Post.jsx';
 
 const App = () => {
   return (

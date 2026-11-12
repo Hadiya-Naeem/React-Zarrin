@@ -1,0 +1,32 @@
+.cardsbg{
+    background-color:#F5F7FA ;
+    
+}
+.contentCards h4{
+    font-size: larger;
+}
+.contentCards p{
+    font-size: small;
+}
+.anchor a {
+    color:#7C4EE4 !important ;
+    text-decoration: underline;
+    
+}
+.anchor{
+    background-color: #F5F7FA !important;
+   
+}
+.cardDiv{
+border-radius: 15px !important;
+border: none !important;
+background-color: #F5F7FA !important;
+ border: none;
+    outline: none;
+}
+.cardDiv p{
+    color: #666666
+}
+.bgcard{
+    background-color: #F5F7FA !important; 
+}

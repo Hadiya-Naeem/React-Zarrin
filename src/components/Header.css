@@ -13,5 +13,10 @@
     padding: 10px 20px;
     background-color: #7C4EE4 !important;
     color: white !important;
-    border-radius: 2px;
+    border-radius: 10px;
+      transition: all 0.3s ease-in-out;
+}
+.headerBtn:hover{
+      transform: scale(1.08);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
 }

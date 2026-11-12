@@ -9,7 +9,7 @@ const Footer = () => {
 
       <div className="d-flex flex-column justify-content-center align-items-center gap-3">
         <img src="/Logo.png" alt="" />
-        <div className="anchor d-flex gap-5">
+        <div className="anchortag d-flex gap-5">
             <a href="">Home</a>
             <a href="">Blog</a>
             <a href="">About</a>

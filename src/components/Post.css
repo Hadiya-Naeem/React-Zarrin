@@ -1,19 +1,29 @@
-.heroBtn{
+.postBtn{
     outline: none !important;
-    border: none !important;
+    border: 1px solid #7C4EE4 !important;
     padding: 10px 20px ;
-     background-color: white !important;
-    color: black !important;
-    border-radius: 2px;
+     background-color: transparent !important;
+    color: #7C4EE4 !important;
+    border-radius: 10px;
+    width: 40%;
+    margin-bottom: 40px;
+    transition: all 0.3s ease-in-out;
 }
-.herobg{
-    background-color: #7C4EE4;
+.postBtn:hover{
+      transform: scale(1.08);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+.postbg{
+    background-color: #F5F7FA;
    
 }
-.heading{
-    font-size: 60px;
+.headingPost{
+    font-size: 25px;
+    font-weight: bold;
 }
-.content img {
-    width: 100%;
-    height: auto;
+.postCon{
+    color: black;
+}
+.postp{
+    color: #666666;
 }

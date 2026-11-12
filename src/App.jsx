@@ -4,6 +4,8 @@ import Hero from './components/Hero'
 
 import Footer from './components/Footer'
 import Post from './components/Post.jsx';
+import Cards from './components/Cards.jsx';
+import Popular from './components/Popular.jsx';
 
 const App = () => {
   return (
@@ -11,7 +13,10 @@ const App = () => {
     <Header/>
     <Hero />
     <Post />
+    <Cards />
+    <Popular />
     <Footer />
+    
     </>
   )
 }
